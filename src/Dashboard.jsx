@@ -7,7 +7,7 @@ export default function Dashboard({ session }) {
         <h1 className="text-4xl font-bold text-gray-800 mb-2">Welcome 🙏</h1>
         <p className="text-gray-500 mb-6">{session.user.email}</p>
         <div className="p-4 bg-green-50 border border-green-200 rounded text-green-700 mb-6">
-           Congratulation You Passed all the required Details.
+           Congratulation You Passed all the required Test Cases!.
         </div>
 
         <button 

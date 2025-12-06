@@ -103,7 +103,7 @@ export default function Auth() {
             className="w-full bg-blue-600 text-white p-2 rounded hover:bg-blue-700 disabled:opacity-50 font-semibold"
             disabled={loading}
           >
-            {loading ? 'Processing...' : (isLogin ? 'Login' : 'Sign Up')}
+            {loading ? 'Processing..' : (isLogin ? 'Login' : 'Sign Up')}
           </button>
         </form>
         <p className="mt-4 text-center text-sm text-gray-600">
