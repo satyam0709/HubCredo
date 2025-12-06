@@ -4,7 +4,7 @@ A full-stack authentication system built for the HubCredo internship assignment.
 
 ## 🚀 Live Demo
 **Live Link:** [INSERT_VERCEL_LINK_HERE]  
-*(e.g., https://your-project.vercel.app)*
+https://hub-credo-gules.vercel.app/
 
 ## 🛠️ Tech Stack
 * **Frontend:** React (Vite)
